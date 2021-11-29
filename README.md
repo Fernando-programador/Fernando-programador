@@ -1,6 +1,5 @@
-Olá sou Fernando, Sou atualmente aluno de Engenharia de software
-tenho interrese em conhecer mais sobre a programação 
-codigo em VBA também tenho interrese.
+Olá sou Fernando, Sou atualmente aluno de "Engenharia de Software".
+Caso tenha interesse em meus serviços você pode entrar em contato comigo pe meu ZAP https://ajeitandoseulado.com.br/zapcontato
 
 
 <!---
