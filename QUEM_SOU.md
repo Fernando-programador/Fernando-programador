@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Fernando-programador  atualmente estou cursando  NGENHARIA DE SOFTWARE.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learni ng .  ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá sou Fernando, Sou atualmente aluno de Engenharia de software
+tenho interrese em conhecer mais sobre a programação 
+codigo em VBA também tenho interrese.
+
 
 <!---
 Fernando-programador/Fernando-programador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
